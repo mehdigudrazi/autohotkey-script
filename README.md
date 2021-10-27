@@ -1,6 +1,6 @@
 # autohotkey-script
 autohotkey script brightness and sound
-<\br>
+<br>
 ctrl + shift + arrow up /down for brightness
-<\br>
+<br>
 ctrl + shift + arrow left/right for sound
