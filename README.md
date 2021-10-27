@@ -1,5 +1,5 @@
 # autohotkey-script
-autohotkey script brightness and sound
+autohotkey script brightness and sound (windows 10 )
 <br>
 ctrl + shift + arrow up /down for brightness
 <br>
